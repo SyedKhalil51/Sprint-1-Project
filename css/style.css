@@ -1,0 +1,65 @@
+body 
+{
+    font-family: "Times New Roman", Times, serif;
+}
+.header
+{
+    width: 100%;
+    min-height: 250px;
+    background-color: #bdc3c7;
+    text-align: center;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    line-height: 50px;
+}
+
+.headerheading
+{
+padding-top: 80px;
+}
+
+.imagesettings
+{
+    width: 900px;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.caption
+{
+    text-align: center;
+    line-height: 125px;
+}
+
+.banner
+{
+    width: 100%;
+    height: 100%;
+    background-color: #bdc3c7;    
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.bannerheading
+{
+   text-align: center; 
+   padding-top: 25px;
+   padding-bottom: 10px;
+}
+.list
+{
+    width: 500px;
+    background-color: #bdc3c7; 
+    padding-left: 500px;
+    line-height: 35px;
+}
+.qutation
+{
+    text-align: center; 
+    line-height: 15px;
+}
